@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author: chenyue08
+ * @author: shadows
  * @date 2018/9/13 上午10:38
  */
 public class MerkleTrees {

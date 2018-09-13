@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author: chenyue08
+ * @author: shadows 
  * @date 2018/9/13 上午10:54
  */
 public class Main {
